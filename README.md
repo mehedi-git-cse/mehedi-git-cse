@@ -1,100 +1,115 @@
-# Hi, I'm Md Mehedi Hasan 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Md Mehedi Hasan
 
-### Software Engineer | Backend Developer
+<div align="center">
 
-🚀 Backend-focused Software Engineer with 3+ years of experience in building scalable web applications, RESTful APIs, and enterprise solutions using Laravel, PHP, FastAPI, and Node.js.
+### 🚀 Software Engineer | Backend Developer
 
-🔭 Currently working on the Bangladesh e-Hajj Management System
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Laravel+Developer;Backend+Engineer;FastAPI+Enthusiast;Node.js+Developer;Building+Scalable+Enterprise+Applications" />
 
-💼 Open to Backend Software Engineer Opportunities
-
----
-
-## 👨‍💻 About Me
-
-* 💻 Experienced in Backend Development and API Design
-* ⚡ Skilled in Laravel, PHP, FastAPI, Node.js, and Express.js
-* 🗄️ Strong knowledge of MySQL and SQL Optimization
-* 📨 Experience with RabbitMQ and Asynchronous Processing
-* 🔧 Passionate about Clean Code, Software Architecture, and Performance Optimization
-* 🚀 Always learning new technologies and best practices
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-### Backend
+🔹 Software Engineer with **3+ years of experience** in backend development
 
-* PHP
-* Laravel
-* Lumen
-* Node.js
-* Express.js
-* FastAPI
-* Python
+🔹 Currently contributing to the **Bangladesh e-Hajj Management System**
+
+🔹 Experienced in designing and developing **REST APIs**, enterprise applications, and scalable backend services
+
+🔹 Passionate about software architecture, clean code, and performance optimization
+
+🔹 Continuously learning modern technologies and best practices
+
+🔹 Open to **Backend Software Engineer Opportunities**
+
+---
+
+## 🚀 Tech Stack
+
+### Backend Development
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ### Frontend
 
-* JavaScript
-* jQuery
-* Vue.js
-* Bootstrap
-* HTML5
-* CSS3
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### Database
+### Database & Messaging
 
-* MySQL
-* SQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
 
-### Tools & Technologies
+### Tools
 
-* Git
-* GitHub
-* RabbitMQ
-* REST API
-* Docker
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Professional Experience
 
-### e-Hajj Management System
+### 🇧🇩 Bangladesh e-Hajj Management System
 
-Government enterprise platform for managing Hajj pilgrims, agencies, flights, accommodations, and operational activities.
+Developing and maintaining enterprise-level solutions for managing:
 
-**Tech:** Laravel, PHP, MySQL, RabbitMQ
+* Pilgrim Registration
+* Agency Management
+* Flight Management
+* Accommodation Services
+* SMS Notification Services
+* System Integration & API Development
 
-### FastAPI JWT Authentication API
-
-Authentication system with JWT, role-based access control, and protected APIs.
-
-**Tech:** FastAPI, Python, JWT, MySQL
-
-### Express.js REST API
-
-Scalable REST API with authentication, middleware, and database integration.
-
-**Tech:** Node.js, Express.js, MySQL
+**Tech Used:** Laravel, PHP, MySQL, RabbitMQ
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedi-git-cse\&show_icons=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedi-git-cse&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-git-cse&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-git-cse\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-git-cse&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* React.js
+* Kubernetes
+* System Design
+* Microservices Architecture
+* Cloud Technologies
 
 ---
 
 ## 🤝 Connect With Me
 
-* GitHub: https://github.com/mehedi-git-cse
-* LinkedIn: https://www.linkedin.com/in/md-mehedi-hasan-cse
-* Email: mehedi.info.cse@gmail.com
+📧 Email: mehedi.info.cse@gmail.com
+
+💼 LinkedIn:[ https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-mehedi-hasan-cse/)
+
+🐙 GitHub: https://github.com/mehedi-git-cse
 
 ---
 
-### 💡 Motto
+<div align="center">
 
-> Building reliable backend systems that solve real-world problems.
+### ⚡ "Building scalable backend systems that power real-world applications."
+
+</div>
