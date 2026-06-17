@@ -6,8 +6,6 @@
 
 🔭 Currently working on the Bangladesh e-Hajj Management System
 
-🌱 Currently learning React.js, Kubernetes, and System Design
-
 💼 Open to Backend Software Engineer Opportunities
 
 ---
@@ -56,7 +54,6 @@
 * RabbitMQ
 * REST API
 * Docker
-* Linux
 
 ---
 
@@ -93,8 +90,8 @@ Scalable REST API with authentication, middleware, and database integration.
 ## 🤝 Connect With Me
 
 * GitHub: https://github.com/mehedi-git-cse
-* LinkedIn: Add Your LinkedIn Profile
-* Email: Add Your Email
+* LinkedIn: https://www.linkedin.com/in/md-mehedi-hasan-cse
+* Email: mehedi.info.cse@gmail.com
 
 ---
 
