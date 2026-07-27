@@ -102,7 +102,7 @@ Developing and maintaining enterprise-level solutions for managing:
 
 📧 Email: mehedi.info.cse@gmail.com
 
-💼 LinkedIn:[ https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-mehedi-hasan-cse/)
+💼 LinkedIn:[ https://linkedin.com/in/md-mehedi-hasan-cse](https://www.linkedin.com/in/md-mehedi-hasan-cse/)
 
 🐙 GitHub: https://github.com/mehedi-git-cse
 
