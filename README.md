@@ -170,9 +170,15 @@ Working on enterprise-level government platforms that support the Hajj managemen
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehedi-git-cse&show_icons=true&theme=tokyonight&hide_border=true" />
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api?username=mehedi-git-cse&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-git-cse&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=mehedi-git-cse&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
@@ -180,7 +186,9 @@ Working on enterprise-level government platforms that support the Hajj managemen
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-git-cse&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-stats-extended.vercel.app/api/streak?username=mehedi-git-cse&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
